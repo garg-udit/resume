@@ -1,1 +1,1 @@
-This is a personlaised resume builder for us.
+This is a personalised resume builder for us.
